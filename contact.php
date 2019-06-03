@@ -92,6 +92,5 @@
           9700 AC Groningen <br>
           +31 050 361 1695.</p>
        </div>
-
       
 <?php include 'footer.php';?>
