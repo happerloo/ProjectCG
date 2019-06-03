@@ -1,5 +1,5 @@
 <?php include 'head.php';?>     
-
+<div><p>aaa</p></div>
 <body>
   <nav class="navbar navbar-expand navbar-dark fixed-top navbar-custom menu">
           <a class="navbar-brand" href="#">
