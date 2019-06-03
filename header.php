@@ -43,7 +43,7 @@
     <input type="text" class="form-control" placeholder="Search this blog">
     <div class="input-group-append">
       <button class="btn btn-secondary" type="button">
-        <i class="fa fa-search"></i>
+        <i class="fa fa-searchh"></i>
       </button>
     </div>
   </div>
