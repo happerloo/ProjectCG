@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Campus Groningen</title>
+
+
+    <!-- Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+
+
+    <div class="container">
+      <!-- Columns, verwijder een column of voeg toe. Hij is nu automatisch, kijk even of dit mooi wordt op mobiel, anders col-md-4 -->
+      <div class="row">
+        <div class="col">
+          <!--Contactformulier-->
+  <section class="mb-4">
+
+      <!--Section heading-->
+      <h2 class="h1-responsive font-weight-bold my-4">Contactformulier</h2>
+      <!--Section description-->
+      <p class=" w-responsive mx-auto mb-5">Heb je nog vragen over de gebouwen, of iets anders? Stuur ons een berichtje!</p>
+
+      <div class="row">
+
+          <!--Grid column-->
+          <div class="col">
+              <form id="contact-form" name="contact-form" action="mail.php" method="POST">
+
+                  <!--Grid row-->
+                  <div class="row">
+
+                      <!--Grid column-->
+                      <div class="col">
+                          <div class="md-form mb-0">
+                              <input type="text" id="name" name="name" class="form-control">
+                              <label for="name" class="">Naam</label>
+                          </div>
+                      </div>
+                      <!--Grid column-->
+
+                      <!--Grid column-->
+                      <div class="col">
+                          <div class="md-form mb-0">
+                              <input type="text" id="email" name="email" class="form-control">
+                              <label for="email" class="">Email</label>
+                          </div>
+                      </div>
+                      <!--Grid column-->
+
+                  </div>
+                  <!--Grid row-->
+
+                  <!--Grid row-->
+                  <div class="row">
+                      <div class="col">
+                          <div class="md-form mb-0">
+                              <input type="text" id="subject" name="subject" class="form-control">
+                              <label for="subject" class="">Telefoonnummer*</label>
+                          </div>
+                      </div>
+                  </div>
+                  <!--Grid row-->
+
+                  <!--Grid row-->
+                  <div class="row">
+
+                      <!--Grid column-->
+                      <div class="col">
+
+                          <div class="md-form">
+                              <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
+                              <label for="message">Bericht</label>
+                          </div>
+
+                      </div>
+                  </div>
+                  <!--Grid row-->
+
+              </form>
+
+              <div class="text-center text-md-left">
+                  <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Verzenden</a>
+              </div>
+              <div class="status"></div>
+          </div>
+
+      </div>
+
+  </section>
+  <!--Section: Contact v.2-->
+
+        </div>
+        <div class="col">
+          <h2 class="h1-responsive font-weight-bold my-4">Locatie</h2>
+          <div class="mapouter"><div class="gmap_canvas"><iframe width="400" height="330" id="gmap_canvas" src="https://maps.google.com/maps?q=Campus%20Groningen%209700%20AC&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de"></a></div><style>.mapouter{position:relative;text-align:right;height:330px;width:400px;}.gmap_canvas {overflow:hidden;background:none!important;height:330px;width:400px;}</style>
+        </div>
+        <p class=" w-responsive mx-auto mb-5"><b>Campus Groningen</b> <br>
+          Postbus 112 <br>
+          9700 AC Groningen <br>
+          +31 050 361 1695.</p>
+       </div>
+
+
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
