@@ -1,53 +1,96 @@
 <?php include 'head.php';?>
 <?php include 'header.php';?>
-
-    <!--Zet hieronder een foto van het gebouw waar aan wordt gewerkt-->
-    <img class="img-fluid" src="img/vanolsttoren.jpg" alt="Een foto van de van Olsttoren">
-    
-    <!--De volgende div bevat de titel van het project-->
-    <div class="bg-dark">
-        <div class="d-flex container">
-            <!--Voeg hier de titel toe van het project-->
-            <h1 class="font-weight-bold text-white">
-               Verbouwing aan de van Olsttoren
-            </h1>
-        </div>
-    </div>
-    
-    <!--Voeg hieronder alle informatie toe van het project-->
-    <div class="container">
+<div class="container">
+      <!-- Columns, verwijder een column of voeg toe. Hij is nu automatisch, kijk even of dit mooi wordt op mobiel, anders col-md-4 -->
       <div class="row">
         <div class="col">
-          <h2>Projectinformatie</h2>
-                <p>
-                   De Hanzehogeschool verbouwt vanaf 2018 het complex van de Van Olst Toren (ZP7). Het doel is de reactie van een toegankelijk campusgebouw, en een levendig middelpunt voor studenten, medewerkers én bezoekers.
-                </p>
-                <h2>Hoofdstraat</h2>
-                <p>
-                   In de nieuwe opzet van het complex wordt er een hoofdstraat gemaakt die het verbindend element zal vormen binnen het complex. Het Atrium vormt dan het kruis- en ontmoetingspunt. Hiervoor zullen enkele gebouwdelen worden gesloopt. Er komt duurzame nieuwbouw voor in de plaats, die wordt geïntegreerd met de huidige gebouwdelen.
-                </p>
-            <h2>Conferentieruimte</h2>
-                <p>
-                   In de nieuwbouw zal o.a. plaats zijn voor een grote conferentieruimte.
-                </p>
-                <h2>Binnentuinen</h2>
-                <p>
-                    Ook worden er binnentuinen gecreeërd, met ontspannen verblijfsruimtes, die ook zorgen voor veel licht in de gebouwdelen.
-                </p>
-                <h2>Tijdelijke huisvesting</h2>
-                <p>
-                    Om studenten, medewerkers en bezoekers zo weinig mogelijk overlast te bezorgen, is er tijdelijke huisvesting gerealiseerd bij ZP7 in mei 2018: het U-gebouw.
-                </p>
-        </div>
-        <!--de volgende column bevat afbeeldingen van de bouw van het project. Laat deze hele column weg als er geen afbeeldingen zijn-->
-        <div class="col">
-          <h2>Foto's van de bouw</h2>
-                <img src="img/vanolsttoren.jpg" alt="Beschrijving foto 1" class="img-thumbnail">
-                <img src="img/vanolsttoren.jpg" alt="Beschrijving foto 1" class="img-thumbnail">
-                <img src="img/vanolsttoren.jpg" alt="Beschrijving foto 1" class="img-thumbnail">
-       </div>
+          <!--Contactformulier-->
+  <section class="mb-4">
+
+      <!--Section heading-->
+      <h2 class="h1-responsive font-weight-bold my-4">Contactformulier</h2>
+      <!--Section description-->
+      <p class=" w-responsive mx-auto mb-5">Heb je nog vragen over de gebouwen, of iets anders? Stuur ons een berichtje!</p>
+
+      <div class="row">
+
+          <!--Grid column-->
+          <div class="col">
+              <form id="contact-form" name="contact-form" action="mail.php" method="POST">
+
+                  <!--Grid row-->
+                  <div class="row">
+
+                      <!--Grid column-->
+                      <div class="col">
+                          <div class="md-form mb-0">
+                              <input type="text" id="name" name="name" class="form-control">
+                              <label for="name" class="">Naam</label>
+                          </div>
+                      </div>
+                      <!--Grid column-->
+
+                      <!--Grid column-->
+                      <div class="col">
+                          <div class="md-form mb-0">
+                              <input type="text" id="email" name="email" class="form-control">
+                              <label for="email" class="">Email</label>
+                          </div>
+                      </div>
+                      <!--Grid column-->
+
+                  </div>
+                  <!--Grid row-->
+
+                  <!--Grid row-->
+                  <div class="row">
+                      <div class="col">
+                          <div class="md-form mb-0">
+                              <input type="text" id="subject" name="subject" class="form-control">
+                              <label for="subject" class="">Telefoonnummer*</label>
+                          </div>
+                      </div>
+                  </div>
+                  <!--Grid row-->
+
+                  <!--Grid row-->
+                  <div class="row">
+
+                      <!--Grid column-->
+                      <div class="col">
+
+                          <div class="md-form">
+                              <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
+                              <label for="message">Bericht</label>
+                          </div>
+
+                      </div>
+                  </div>
+                  <!--Grid row-->
+
+              </form>
+
+              <div class="text-center text-md-left">
+                  <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Verzenden</a>
+              </div>
+              <div class="status"></div>
+          </div>
+
       </div>
-</div>
+
+  </section>
+  <!--Section: Contact v.2-->
+
+        </div>
+        <div class="col">
+          <h2 class="h1-responsive font-weight-bold my-4">Locatie</h2>
+          <div class="mapouter"><div class="gmap_canvas"><iframe width="400" height="330" id="gmap_canvas" src="https://maps.google.com/maps?q=Campus%20Groningen%209700%20AC&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de"></a></div><style>.mapouter{position:relative;text-align:right;height:330px;width:400px;}.gmap_canvas {overflow:hidden;background:none!important;height:330px;width:400px;}</style>
+        </div>
+        <p class=" w-responsive mx-auto mb-5"><b>Campus Groningen</b> <br>
+          Postbus 112 <br>
+          9700 AC Groningen <br>
+          +31 050 361 1695.</p>
+       </div>
 
       
 <?php include 'footer.php';?>
