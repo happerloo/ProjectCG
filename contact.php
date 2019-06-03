@@ -1,5 +1,6 @@
 <?php include 'head.php';?>
 <?php include 'header.php';?>
+
 <div class="container">
       <!-- Columns, verwijder een column of voeg toe. Hij is nu automatisch, kijk even of dit mooi wordt op mobiel, anders col-md-4 -->
       <div class="row">
@@ -94,7 +95,3 @@
 
       
 <?php include 'footer.php';?>
-
-
-
-    
