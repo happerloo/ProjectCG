@@ -1,6 +1,9 @@
 <?php include 'head.php';?>     
 
-<nav class="navbar navbar-expand navbar-dark fixed-top navbar-custom menu">
+
+
+<body>
+  <nav class="navbar navbar-expand navbar-dark fixed-top navbar-custom menu">
           <a class="navbar-brand" href="#">
     <img class="logo" src="/campus/logo.png" alt="Logo">
   </a>
@@ -48,5 +51,5 @@
     </div>
   </div>
 </div>
-
-<body>
+    
+    <
