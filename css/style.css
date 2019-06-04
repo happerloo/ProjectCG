@@ -1,8 +1,21 @@
-
+/*
+ Theme Name:   Campus Groningen
+ Theme URI:    https://campusgroningen.cmd19b.cmi.hanze.nl/wordpress/
+ Description:  Child Theme Campus Groningen
+ Author:       Edwin, Gerda, Harry & Melissa
+ Author URI:   https://campusgroningen.cmd19b.cmi.hanze.nl/wordpress/
+ Template:     twentynineteen
+ Version:      1.0.0
+ Tags:         plaats, hier, jouw, tags, gescheiden, door, kommas
+ Text Domain:  twentynineteen-child
+*/
+ 
+/* =Eigen CSS hier beneden plaatsen
+-------------------------------------------------------------- */
       
 
 
-      .container {
+    .container {
           
     width: 100%;
 
