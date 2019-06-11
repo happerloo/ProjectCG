@@ -19,7 +19,7 @@
     <div class="container">
       <div class="row">
         <div class="col">
-          <h2>Projectinformatie</h2>
+          <h2 class="project_margin">Projectinformatie</h2>
                 <p>
                    De Hanzehogeschool verbouwt vanaf 2018 het complex van de Van Olst Toren (ZP7). Het doel is de reactie van een toegankelijk campusgebouw, en een levendig middelpunt voor studenten, medewerkers én bezoekers.
                 </p>
@@ -53,7 +53,3 @@
 
       
 <?php include 'footer.php';?>
-
-
-
-    
