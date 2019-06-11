@@ -16,10 +16,10 @@
     </div>
     
     <!--Voeg hieronder alle informatie toe van het project-->
-    <div class="container project_margin">
+    <div class="container">
       <div class="row">
         <div class="col">
-          <h2>Projectinformatie</h2>
+          <h2 class="project_margin">Projectinformatie</h2>
                 <p>
                    In het derde kwartaal van 2019 gaan de werkzaamheden aan de Zernikelaan van start. Deze werkzaamheden zullen naar verwachting tot eind 2020 duren. Het initiatief is genomen om de Zernikelaan een nieuwe inrichting te geven. Een inrichting die aansluit bij het karakter van de campus en anticipeert op de nieuwe ontwikkelingen in het noordelijk deel van de Zernike Campus. 
                 </p>
