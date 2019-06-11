@@ -1,8 +1,9 @@
 <?php include 'head.php';?>
 <?php include 'header.php';?>
 
+<div class="content">
     <!--Zet hieronder een foto van het gebouw waar aan wordt gewerkt-->
-    <img class="img-fluid content" src="img/vanOlst_zuidgevel_omslag.jpg" alt="Een sfeerimpressie van de zuidgevel van de van Olst Toren">
+    <img class="img-fluid" src="img/vanOlst_zuidgevel_omslag.jpg" alt="Een sfeerimpressie van de zuidgevel van de van Olst Toren">
     
     <!--De volgende div bevat de titel van het project-->
     <div class="bg-dark">
@@ -42,11 +43,12 @@
         <!--de volgende column bevat afbeeldingen van de bouw van het project. Laat deze hele column weg als er geen afbeeldingen zijn-->
         <div class="col">
           <h2>Foto's van de bouw</h2>
-                <img src="img/vanolsttoren.jpg" alt="Beschrijving foto 1" class="img-thumbnail">
-                <img src="img/vanolsttoren.jpg" alt="Beschrijving foto 1" class="img-thumbnail">
-                <img src="img/vanolsttoren.jpg" alt="Beschrijving foto 1" class="img-thumbnail">
+                <img src="img/vanOlst_atrium.png" alt="Sfeerimpressie nieuw atrium" class="img-fluid">
+                <img src="img/vanOlst_boulevard.jpg" alt="Sfeerimpressie boulevard" class="img-fluid">
+                <img src="img/vanOlst_mediatheek.png" alt="Sfeerimpressie mediatheek" class="img-fluid">
        </div>
       </div>
+</div>
 </div>
 
       
