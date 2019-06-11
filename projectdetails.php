@@ -43,9 +43,9 @@
         <!--de volgende column bevat afbeeldingen van de bouw van het project. Laat deze hele column weg als er geen afbeeldingen zijn-->
         <div class="col">
           <h2>Foto's van de bouw</h2>
-                <img src="img/vanOlst_atrium.png" alt="Sfeerimpressie nieuw atrium" class="img-fluid">
-                <img src="img/vanOlst_boulevard.jpg" alt="Sfeerimpressie boulevard" class="img-fluid">
-                <img src="img/vanOlst_mediatheek.png" alt="Sfeerimpressie mediatheek" class="img-fluid">
+                <img src="img/vanOlst_atrium.png" alt="Sfeerimpressie nieuw atrium" class="img-fluid img-thumbnail">
+                <img src="img/vanOlst_boulevard.jpg" alt="Sfeerimpressie boulevard" class="img-fluid img-thumbnail">
+                <img src="img/vanOlst_mediatheek.png" alt="Sfeerimpressie mediatheek" class="img-fluid img-thumbnail">
        </div>
       </div>
 </div>
@@ -53,7 +53,3 @@
 
       
 <?php include 'footer.php';?>
-
-
-
-    
