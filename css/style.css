@@ -11,6 +11,11 @@
 /* =Eigen CSS hier beneden plaatsen
 -------------------------------------------------------------- */
 
+.project_margin {
+  margin-top: 20px;
+}
+
+
 .contact {
   margin-top: 50px;
   margin-bottom: 200px;
