@@ -13,131 +13,124 @@
 /* =Eigen CSS hier beneden plaatsen
 -------------------------------------------------------------- */
       
+.content {
+    margin-top: 16px;
+    margin-bottom: 180px;
+}
 
-
-    .container {
-          
+header {
+    position: fixed;
+    /* Set the navbar to fixed position */
+    top: 0;
+    /* Position the navbar at the top of the page */
     width: 100%;
+    /* Full width */
+    background-color: black;
+    z-index: 10;
 
-          
-      }
+}
+
+.logo {
+    width: 150px;
+    height: 40px;
+    ;
+}
+
+nav {
+    background-color: #000000;
+
+}
+
+
+.navbar-nav a:hover,
+.icon-bar a:hover,
+.btn-search:hover {
+
+    border-bottom: 3px solid #add8e5;
+}
+
+.nav-item {
+    float: left;
+
+}
+
+#search {
+    display: none;
+    width: 100%;
+    padding: 4px;
+    text-align: center;
+    background-color: #000000;
+}
+
+.btn-search,
+.btn-search:focus {
+    outline: none;
+    background-color: #000000;
+    border: none;
+    box-shadow: none;
+    padding: 6px;
+
+}
+.fixed-footer {
+
+    background-color: #0000;
+    position: fixed;
+    /* Set the navbar to fixed position */
+    bottom: 0;
+    /* Position the navbar at the top of the page */
+    width: 100%;
+    /* Full width */
+}
+
+
+.social li {
+    float: right;
+    padding: 10px;
+
+}
+
+
+footer {
+    background-color: #000000;
+}
+
+.nieuwsbrief ul {
+    list-style: none;
+
+}
+.nieuwsbrief
+{
+    width: 100%;
+    background-color: #000000;
+}
+
+.fa {
+    color: white;
+}
+
 
 .icon-bar {
-  width: 100%;
-  overflow: auto;
+    width: 100%;
+    overflow: auto;
 }
 
 .icon-bar a {
-  float: left;
-  width: 25%;
-  text-align: center;
-  padding: 12px 0;
-  color: white;
+    float: left;
+    width: 25%;
+    text-align: center;
+    padding: 12px 0;
+    color: white;
     font-size: 40px;
 }
-      .icon-bar p {
-           color: white;
-          font-size: 16px;
+
+.icon-bar p {
+    color: white;
+    font-size: 16px;
 }
 
-      
+
 .icon-bar a:hover {
 
     color: white;
     text-decoration: none;
-}
-      
-
-     
-.navbar-nav a:hover, 
-.icon-bar a:hover, 
-.btn-search:hover {
-    
-      border-bottom: 3px solid #add8e5;
-}
-      
-      .nav-item {
-          float: left;
-     
-      }
-     
-    
-    
-nav  {
-          background-color: #000000;
-      }
-      
-  
-   
-      
- .logo {
-  width: 150px;
-  height: 40px;;
-}
-      
-   
-      
-   .social li {
-       float: right;
-	padding: 10px;
-	
-
-}
-      
-      footer{
- 
-          position: fixed;
-          bottom: 0;
-        width: 100%;
-        background-color: #000000;
-
-      }
-      
-      
-      footer ul {
-    list-style: none;
-         
-      }
-    
-      footer p {
-          
-          color: white;
-      }
-      
-       .fa {
-          color: white;
-      }
-      
-      
-      
-#search {
-display: none;
-width: 100%;
-padding: 70px 10% 2% 10%;
-  text-align: center;
-  background-color: #000000;
-}
-       
-
-.btn-search,
-      .btn-search:focus
-    
-     {
-    outline: none;
-    background-color: #000000;
-    border: none;
-    box-shadow:none;
-         padding: 6px;
-          
-}
-      
-
-      
-      .content h1 {
-          padding-top: 15%;
-          color: green;
-      }
-  article {
-      margin-bottom: 20px;
-        
 }
