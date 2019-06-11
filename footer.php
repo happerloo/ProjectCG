@@ -1,7 +1,9 @@
-
+</body>
 
 <footer>
-    
+
+        
+          <div class="fixed-footer">
     <nav class="icon-bar menu  d-sm-none">
   <a href="#"><i class="fa fa-info"></i><p>Informatie</p></a>
 <a href="#"><i class="fa fa-map"></i><p>Kaart</p></a>
@@ -9,10 +11,7 @@
  <a href="#"><i class="fa fa-comments"></i><p>Contact</p></a>
 
 </nav>
-        
-        
-        
-        <div class="container">
+                            <div class="nieuwsbrief d-none d-md-block">
         
         <div class="row">
             
@@ -29,7 +28,7 @@
                         <li>
                            
                                 <input type="text" class="" placeholder="Email ">
-                                <button class="btn btn-success" type="button"> Lorem ipsum <i class="fa fa-long-arrow-right"> </i> </button>
+                                <button class="btn btn-success" type="button">Ja, ik blijf op de hoogte!<i class="fa fa-long-arrow-down"> </i> </button>
                          
                         </li>
                     </ul>
@@ -49,8 +48,8 @@
             </div>
         
         </div>
-        
-        
+              
+    </div>
        
        </footer>
 
@@ -74,5 +73,5 @@
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-  </body>
+
 </html> 
