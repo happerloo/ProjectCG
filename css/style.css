@@ -7,13 +7,20 @@
  Version:      1.0.0
  Tags:         plaats, hier, jouw, tags, gescheiden, door, kommas
 */
- 
+
 /* =Eigen CSS hier beneden plaatsen
 -------------------------------------------------------------- */
-      
+
+.contact {
+  margin-top: 50px;
+  margin-bottom: 200px;
+}
+
+
 .content {
     margin-top: 16px;
     margin-bottom: 130px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 header {
@@ -140,4 +147,22 @@ footer {
 
     color: white;
     text-decoration: none;
+}
+
+/* Buttonstyle */
+
+.btn-primary {
+  color: white !important;
+  background-color: #add8e5;
+  border-color: #add8e5;
+
+}
+
+.btn-primary:hover {
+  background-color: #77abbb;
+  border-color: #77abbb;
+}
+
+.row {
+  margin-bottom: 20px;
 }
