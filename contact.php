@@ -1,7 +1,7 @@
 <?php include 'head.php';?>
 <?php include 'header.php';?>
 
-
+<div class="content, contact">
     <div class="container">
       <!-- Columns, verwijder een column of voeg toe. Hij is nu automatisch, kijk even of dit mooi wordt op mobiel, anders col-md-4 -->
       <div class="row">
@@ -93,5 +93,7 @@
           9700 AC Groningen <br>
           +31 050 361 1695.</p>
        </div>
+</div>
+</div>
 
        <?php include 'footer.php';?>
