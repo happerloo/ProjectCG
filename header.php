@@ -1,6 +1,9 @@
 <?php include 'head.php';?>     
-<body>
-  <nav class="navbar navbar-expand navbar-dark fixed-top navbar-custom menu">
+
+
+<header>
+
+  <nav class="navbar navbar-expand navbar-dark menu-top">
           <a class="navbar-brand" href="#">
     <img class="logo" src="/campus/logo.png" alt="Logo">
   </a>
@@ -34,18 +37,21 @@
 
       </li>
           </ul>
-        
+       
+    
        </nav>
        
-                <div class="search" id="search">
+   
+              <div class="search" id="search">
                     
  <div class="input-group">
     <input type="text" class="form-control" placeholder="Search this blog">
     <div class="input-group-append">
       <button class="btn btn-secondary" type="button">
-        <i class="fa fa-searchh"></i>
+        <i class="fa fa-search"></i>
       </button>
     </div>
   </div>
 </div>
     
+    </header>
