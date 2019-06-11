@@ -19,7 +19,7 @@
     <div class="container">
       <div class="row border mt-2">
         <div class="col-sm-12 col-md-6">
-               <img src="img/vanOlst_zuidgevel_omslag.jpg" alt="Sfeerimpressie nieuw atrium" class="img-fluid">
+               <img src="img/zernikelaan_overzicht.jpg" alt="Sfeerimpressie nieuw atrium" class="img-fluid">
             
           </div>
           
@@ -28,14 +28,14 @@
                 <p>
                    In de nieuwe opzet van het complex wordt er een hoofdstraat gemaakt die het verbindend element zal vormen binnen het complex. Het Atrium vormt dan het kruis- en ontmoetingspunt. Hiervoor zullen enkele gebouwdelen worden gesloopt. Er komt duurzame nieuwbouw voor in de plaats, die wordt geïntegreerd met de huidige gebouwdelen.
                 </p>
-              
+              <a href="/" class="btn btn-primary mb-2">Bekijken</a>
           </div>
     
         </div>
         
          <div class="row border mt-2">
         <div class="col-sm-12 col-md-6">
-               <img src="img/vanOlst_zuidgevel_omslag.jpg" alt="Sfeerimpressie nieuw atrium" class="img-fluid">
+               <img src="img/aletta_overzicht.jpg" alt="Sfeerimpressie nieuw atrium" class="img-fluid">
             
           </div>
           
@@ -44,13 +44,13 @@
                 <p>
                    In de nieuwe opzet van het complex wordt er een hoofdstraat gemaakt die het verbindend element zal vormen binnen het complex. Het Atrium vormt dan het kruis- en ontmoetingspunt. Hiervoor zullen enkele gebouwdelen worden gesloopt. Er komt duurzame nieuwbouw voor in de plaats, die wordt geïntegreerd met de huidige gebouwdelen.
                 </p>
-              
+              <a href="/" class="btn btn-primary mb-2">Bekijken</a>
           </div>
     
         </div>
          <div class="row border mt-2">
         <div class="col-sm-12 col-md-6">
-               <img src="img/vanOlst_zuidgevel_omslag.jpg" alt="Sfeerimpressie nieuw atrium" class="img-fluid">
+               <img src="img/vanOlst_boulevard.jpg" alt="Sfeerimpressie nieuw atrium" class="img-fluid">
             
           </div>
           
@@ -59,13 +59,13 @@
                 <p>
                    In de nieuwe opzet van het complex wordt er een hoofdstraat gemaakt die het verbindend element zal vormen binnen het complex. Het Atrium vormt dan het kruis- en ontmoetingspunt. Hiervoor zullen enkele gebouwdelen worden gesloopt. Er komt duurzame nieuwbouw voor in de plaats, die wordt geïntegreerd met de huidige gebouwdelen.
                 </p>
-              
+              <a href="/" class="btn btn-primary mb-2">Bekijken</a>
           </div>
     
         </div>
        <div class="row border mt-2">
         <div class="col-sm-12 col-md-6">
-               <img src="img/vanOlst_zuidgevel_omslag.jpg" alt="Sfeerimpressie nieuw atrium" class="img-fluid">
+               <img src="img/" alt="Sfeerimpressie nieuw atrium" class="img-fluid">
             
           </div>
           
@@ -74,7 +74,7 @@
                 <p>
                    In de nieuwe opzet van het complex wordt er een hoofdstraat gemaakt die het verbindend element zal vormen binnen het complex. Het Atrium vormt dan het kruis- en ontmoetingspunt. Hiervoor zullen enkele gebouwdelen worden gesloopt. Er komt duurzame nieuwbouw voor in de plaats, die wordt geïntegreerd met de huidige gebouwdelen.
                 </p>
-              
+             <a href="/" class="btn btn-primary mb-2">Bekijken</a> 
           </div>
     
         </div>
@@ -84,3 +84,4 @@
 </div>
       
 <?php include 'footer.php';?>
+
