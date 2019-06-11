@@ -2,7 +2,7 @@
 <?php include 'header.php';?>
 
     <!--Zet hieronder een foto van het gebouw waar aan wordt gewerkt-->
-    <img class="img-fluid" src="img/vanolsttoren.jpg" alt="Een foto van de van Olsttoren">
+    <img class="img-fluid content" src="img/vanOlst_zuidgevel_omslag.jpg" alt="Een sfeerimpressie van de zuidgevel van de van Olst Toren">
     
     <!--De volgende div bevat de titel van het project-->
     <div class="bg-dark">
