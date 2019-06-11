@@ -16,10 +16,10 @@
     </div>
     
     <!--Voeg hieronder alle informatie toe van het project-->
-    <div class="container project_margin">
+    <div class="container">
       <div class="row">
         <div class="col">
-          <h2>Projectinformatie</h2>
+          <h2 class="project_margin">Projectinformatie</h2>
                 <p>
                    De wens van faculteiten en docenten van de universiteit is helder: meer tentamens (digitaal) kunnen afnemen tijdens de tentamenperiode. De bestaande Aletta Jacobshal op de Zernike Campus heeft daarvoor op dit moment te weinig capaciteit. Daarom heeft de Rijksuniversiteit Groningen (RUG) samen met architectenbureau Onix NL uit Groningen een plan gemaakt voor een uitbreiding met meer college- en tentamenruimten, een extra foyer/wachtruimte, studielandschap en meer fietsenstallingen. BAM Bouw en Techniek is de aannemer die het project gaat uitvoeren.
             </p>
