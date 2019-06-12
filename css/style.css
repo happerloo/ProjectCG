@@ -67,6 +67,10 @@ nav {
 
 }
 
+.navbar-nav a {
+    color: white;
+}
+
 #search {
     display: none;
     width: 100%;
