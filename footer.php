@@ -28,7 +28,7 @@
                         <li>
                            
                                 <input type="text" class="" placeholder="Email ">
-                                <button class="btn btn-success" type="button">Ja, ik blijf op de hoogte!<i class="fa fa-long-arrow-down"> </i> </button>
+                                <button class="btn btn-primary" type="button">Ja, ik blijf op de hoogte!</button>
                          
                         </li>
                     </ul>
