@@ -6,12 +6,12 @@
     <div id="container">
     	<!-- hitboxes voor de click's -->
     	<!-- ZP7 -->
-    	<img id="zp7Toren"  src="gebouw_test.svg" onClick="vanOlstInfo()">
-    	<img id="zp7Gebouw" src="gebouw_test.svg" onClick="vanOlstInfo()">
+    	<img id="zp7Toren"  src="img/gebouw_test.svg" onClick="vanOlstInfo()">
+    	<img id="zp7Gebouw" src="img/gebouw_test.svg" onClick="vanOlstInfo()">
     	<!-- ZP11 -->
     
     	<!--img van de kaart !-->
-		<img id="item" 		src="kaart_cg.jpg"> 
+		<img id="item" 		src="img/kaart_cg.jpg"> 
     </div>	
   </div>
   	<!-- Info Box -->
