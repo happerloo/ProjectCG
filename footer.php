@@ -13,7 +13,7 @@
 </nav>
                             <div class="nieuwsbrief d-none d-md-block">
         
-        <div class="row">
+        <div class="row ml-5">
             
        <div class="col-sm-12 col-md-6 pl-5">
              
