@@ -1,62 +1,30 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset='utf-8' />
-<title>Create a draggable Marker</title>
-<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js'></script>
-<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.css' rel='stylesheet' />
-<style>
-body { margin:0; padding:0; }
-#map { position:absolute; top:0; bottom:0; width:100%; }
-</style>
-</head>
-<body>
- 
- 
-<style>
-.coordinates {
-background: rgba(0,0,0,0.5);
-color: #fff;
-position: absolute;
-bottom: 40px;
-left: 10px;
-padding:5px 10px;
-margin: 0;
-font-size: 11px;
-line-height: 18px;
-border-radius: 3px;
-display: none;
-}
-</style>
- 
-<div id='map'></div>
-<pre id='coordinates' class='coordinates'></pre>
- 
-<script>
-mapboxgl.accessToken = 'pk.eyJ1IjoiaGFwcGVybG9vIiwiYSI6ImNqdzBncGw1NzA5enAzenR5cGtka2F0MXUifQ.aK9g75lZx7xN9DYbrlG6pw';
-var coordinates = document.getElementById('coordinates');
-var map = new mapboxgl.Map({
-container: 'map',
-style: 'mapbox://styles/mapbox/streets-v11',
-center: [0, 0],
-zoom: 2
-});
- 
-var marker = new mapboxgl.Marker({
-draggable: true
-})
-.setLngLat([0, 0])
-.addTo(map);
- 
-function onDragEnd() {
-var lngLat = marker.getLngLat();
-coordinates.style.display = 'block';
-coordinates.innerHTML = 'Longitude: ' + lngLat.lng + '<br />Latitude: ' + lngLat.lat;
-}
- 
-marker.on('dragend', onDragEnd);
-</script>
- 
-</body>
-</html>
+<?php include 'head.php';?>
+<?php include 'header.php';?>
+
+<div class="content">
+  <div id="outerContainer">
+    <div id="container">
+    	<!-- hitboxes voor de click's -->
+    	<!-- ZP7 -->
+    	<img id="zp7Toren"  src="gebouw_test.svg" onClick="vanOlstInfo()">
+    	<img id="zp7Gebouw" src="gebouw_test.svg" onClick="vanOlstInfo()">
+    	<!-- ZP11 -->
+    
+    	<!--img van de kaart !-->
+		<img id="item" 		src="kaart_cg.jpg"> 
+    </div>	
+  </div>
+  	<!-- Info Box -->
+	<div id="popup_box">
+	<h1 id="gebouw_naam"></h1>
+	<img src="" id="gebouw_afb" class="gebouw_img">
+	<p> <strong>Bezoekadres:</strong></p>
+	<p id="gebouw_adres"></p>
+	<p id="gebouw_postcode"></p>
+	<p id="gebouw_tel"> </p>
+		
+	</div>
+
+<script src="main.js"></script>
+
+</div>
