@@ -93,7 +93,7 @@
 	function vanOlstInfo() {
 		if (y===0) {
  		titel.insertAdjacentText("afterbegin","van Olst Toren");
-		afb.src= "vanolsttoren2 (1).jpg";
+		afb.src= "img/vanolsttoren2 (1).jpg";
 		adres.insertAdjacentText("afterbegin","Zernikeplein 7");
 		postcode.insertAdjacentText("afterbegin","9746 AS Groningen");
 		tel.insertAdjacentText("afterbegin","(050) 595 27 00");
