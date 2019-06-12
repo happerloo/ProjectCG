@@ -15,14 +15,14 @@
         
         <div class="row">
             
-       <div class="col-sm-12 col-md-6">
+       <div class="col-sm-12 col-md-6 pl-5">
              
              <p><strong>Schrijf je in voor de niewsbrief.</strong></p>
              <p>Deze Campus Groningen nieuwsbrief verschijnt ieder kwartaal.</p>
              
             </div>
             
-            <div class="col-sm-12 col-md-6">
+            <div class="col-sm-12 col-md-6 pl-5">
                 
                 <ul>
                         <li>
