@@ -24,7 +24,7 @@
           </div>
           
             <div class="col-sm-12 col-md-6">
-                <h2>Zernikelaan</h2>
+                <h2 class="mt-2">Zernikelaan</h2>
                 <p>
                    In de nieuwe opzet van het complex wordt er een hoofdstraat gemaakt die het verbindend element zal vormen binnen het complex. Het Atrium vormt dan het kruis- en ontmoetingspunt. Hiervoor zullen enkele gebouwdelen worden gesloopt. Er komt duurzame nieuwbouw voor in de plaats, die wordt geïntegreerd met de huidige gebouwdelen.
                 </p>
@@ -40,7 +40,7 @@
           </div>
           
             <div class="col-sm-12 col-md-6">
-                <h2>Alleta Jacobshal</h2>
+                <h2 class="mt-2">Alleta Jacobshal</h2>
                 <p>
                    In de nieuwe opzet van het complex wordt er een hoofdstraat gemaakt die het verbindend element zal vormen binnen het complex. Het Atrium vormt dan het kruis- en ontmoetingspunt. Hiervoor zullen enkele gebouwdelen worden gesloopt. Er komt duurzame nieuwbouw voor in de plaats, die wordt geïntegreerd met de huidige gebouwdelen.
                 </p>
@@ -55,7 +55,7 @@
           </div>
           
             <div class="col-sm-12 col-md-6">
-                <h2>Van Olst Toren</h2>
+                <h2 class="mt-2">Van Olst Toren</h2>
                 <p>
                    In de nieuwe opzet van het complex wordt er een hoofdstraat gemaakt die het verbindend element zal vormen binnen het complex. Het Atrium vormt dan het kruis- en ontmoetingspunt. Hiervoor zullen enkele gebouwdelen worden gesloopt. Er komt duurzame nieuwbouw voor in de plaats, die wordt geïntegreerd met de huidige gebouwdelen.
                 </p>
@@ -70,7 +70,7 @@
           </div>
           
             <div class="col-sm-12 col-md-6">
-                <h2>Feringa building</h2>
+               <h2 class="mt-2">Feringa building</h2>
                 <p>
                    In de nieuwe opzet van het complex wordt er een hoofdstraat gemaakt die het verbindend element zal vormen binnen het complex. Het Atrium vormt dan het kruis- en ontmoetingspunt. Hiervoor zullen enkele gebouwdelen worden gesloopt. Er komt duurzame nieuwbouw voor in de plaats, die wordt geïntegreerd met de huidige gebouwdelen.
                 </p>
