@@ -6,7 +6,7 @@
     <img class="img-fluid" src="img/vanOlst_zuidgevel_omslag.jpg" alt="Een sfeerimpressie van de zuidgevel van de van Olst Toren">
     
     <!--De volgende div bevat de titel van het project-->
-    <div class="bg-dark">
+    <div class="bg-dark project_margin">
         <div class="d-flex container">
             <!--Voeg hier de titel toe van het project-->
             <h1 class="font-weight-bold text-white">
