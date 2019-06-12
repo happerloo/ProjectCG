@@ -3,7 +3,7 @@
 <footer>
 
         
-          <div class="fixed-footer">
+          <div class="container">
     <nav class="icon-bar menu  d-sm-none">
   <a href="#"><i class="fa fa-info"></i><p>Informatie</p></a>
 <a href="#"><i class="fa fa-map"></i><p>Kaart</p></a>
