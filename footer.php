@@ -11,45 +11,55 @@
  <a href="#"><i class="fa fa-comments"></i><p>Contact</p></a>
 
 </nav>
-                            <div class="nieuwsbrief d-none d-md-block">
+                            <div class="container nieuwsbrief d-none d-md-block">
         
         <div class="row">
             
-       <div class="col-sm-12 col-md-6">
-             
-             <p><strong>Schrijf je in voor de niewsbrief.</strong></p>
-             <p>Deze Campus Groningen nieuwsbrief verschijnt ieder kwartaal.</p>
-             
+                     <div class="col-sm-12 col-md-4 mt-4">
+            <p><strong>Campus Groningen</strong></p>
+            <p>Volg alle bouwontwikkelingen op en rondom Zernike Campus. Schrijf je in voor de nieuwsbrief of volg het via social media.</p>
+                
             </div>
             
-            <div class="col-sm-12 col-md-6">
+           
+            
+       <div class="col-sm-12 col-md-4 mt-4">
+             
+             <p><strong>Schrijf je in voor de niewsbrief.</strong></p>
+             <p>De nieuwsbrief verschijnt ieder kwartaal en bevat alle belangrijke updates met bterekking tot Zernike Campus.</p>
                 
-                <ul>
-                        <li>
-                           
-                                <input type="text" class="" placeholder="Email ">
-                                <button class="btn btn-primary" type="button">Ja, ik blijf op de hoogte!</button>
-                         
-                        </li>
-                    </ul>
             </div>
-       
-            <div class="col-12">
-                    <ul class="social">
+            
+            <div class="col-sm-12 col-md-3 mt-4">
+                
+              
+                                <p><strong>Ja, ik blijf graag op de hoogte!</strong></p>
+                                <input type="text" class="w-100 mt-1" placeholder="Email ">
+                                <button class="btn btn-primary w-100 mt-2" type="button">Inscrhijven</button>
+                
+            </div>
+             
+
+                     <div class="col-sm-12 col-md-1 mt-4 pl-5">
+             <p><strong>Social</strong></p>
+                        <ul class="social">
                         <li> <a href="#"> <i class="fa fa-facebook">   </i> </a> </li>
                         <li> <a href="#"> <i class="fa fa-twitter">   </i> </a> </li>
-                        <li> <a href="#"> <i class="fa fa-google-plus">   </i> </a> </li>
                         <li> <a href="#"> <i class="fa fa-pinterest">   </i> </a> </li>
                         <li> <a href="#"> <i class="fa fa-youtube">   </i> </a> </li>
                     </ul>
                 
             </div>
             
+                
             </div>
         
         </div>
               
+              
     </div>
+    
+    
        
        </footer>
 
