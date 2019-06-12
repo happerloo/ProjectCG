@@ -3,13 +3,13 @@
 
 <header>
 
-  <nav class="navbar navbar-expand navbar-dark menu-top">
+    <nav class="navbar navbar-expand">
           <a class="navbar-brand" href="#">
     <img class="logo" src="img/logo_campus.png" alt="Logo">
   </a>
      <ul class="navbar-nav ml-auto d-none d-lg-block">
       <li class="nav-item">
-        <a class="nav-link" href="#">Home</a>
+        <a class="nav-link active" href="#">Home</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Kaart</a>
