@@ -13,16 +13,16 @@
 </nav>
                             <div class="nieuwsbrief d-none d-md-block">
         
-        <div class="row ml-5">
+        <div class="row">
             
-       <div class="col-sm-12 col-md-6 pl-5">
+       <div class="col-sm-12 col-md-6">
              
              <p><strong>Schrijf je in voor de niewsbrief.</strong></p>
              <p>Deze Campus Groningen nieuwsbrief verschijnt ieder kwartaal.</p>
              
             </div>
             
-            <div class="col-sm-12 col-md-6 pl-5">
+            <div class="col-sm-12 col-md-6">
                 
                 <ul>
                         <li>
