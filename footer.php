@@ -21,9 +21,19 @@
                 
             </div>
             
+                      <div class="col-sm-12 col-md-1 mt-4 pl-5">
+             <p><strong>Social</strong></p>
+                        <ul class="social">
+                        <li> <a href="#"> <i class="fa fa-facebook">   </i> </a> </li>
+                        <li> <a href="#"> <i class="fa fa-twitter">   </i> </a> </li>
+                        <li> <a href="#"> <i class="fa fa-pinterest">   </i> </a> </li>
+                    </ul>
+                
+            </div>
+            
            
             
-       <div class="col-sm-12 col-md-4 mt-4">
+       <div class="col-sm-12 col-md-4 mt-4 ml-2">
              
              <p><strong>Schrijf je in voor de niewsbrief.</strong></p>
              <p>De nieuwsbrief verschijnt ieder kwartaal en bevat alle belangrijke updates met bterekking tot Zernike Campus.</p>
@@ -40,16 +50,7 @@
             </div>
              
 
-                     <div class="col-sm-12 col-md-1 mt-4 pl-5">
-             <p><strong>Social</strong></p>
-                        <ul class="social">
-                        <li> <a href="#"> <i class="fa fa-facebook">   </i> </a> </li>
-                        <li> <a href="#"> <i class="fa fa-twitter">   </i> </a> </li>
-                        <li> <a href="#"> <i class="fa fa-pinterest">   </i> </a> </li>
-                        <li> <a href="#"> <i class="fa fa-youtube">   </i> </a> </li>
-                    </ul>
-                
-            </div>
+           
             
                 
             </div>
