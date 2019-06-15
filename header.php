@@ -9,16 +9,16 @@
   </a>
      <ul class="navbar-nav ml-auto d-none d-lg-block">
       <li class="nav-item">
-        <a class="nav-link active" href="#">Home</a>
+        <a class="nav-link active" href="/">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Kaart</a>
+        <a class="nav-link" href="/">Kaart</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Projecten</a>
+        <a class="nav-link" href="/projecten.php">Projecten</a>
       </li>
            <li class="nav-item">
-        <a class="nav-link" href="#">Contact</a>
+        <a class="nav-link" href="/contact.php">Contact</a>
       </li>
 
                     <li class="nav-item">
