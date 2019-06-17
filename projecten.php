@@ -17,9 +17,12 @@
     
     <!--Voeg hieronder alle informatie toe van het project-->
     <div class="container">
-      <div class="row border mt-2">
+      <div class="row">
+          
+          <div class="row border">
+
         <div class="col-sm-12 col-md-6">
-               <img src="img/zernikelaan_overzicht.jpg" alt="Sfeerimpressie nieuw atrium" class="img-fluid">
+               <img src="img/zernikelaan_overzicht.jpg" alt="Sfeerimpressie nieuw atrium" class="img-fluid projecten py-3">
             
           </div>
           
@@ -30,14 +33,14 @@
                 </p>
               <a href="/" class="btn btn-primary mb-2">Bekijken</a>
           </div>
-    
-        </div>
-        
-         <div class="row border mt-2">
+          </div>
+          
+             <div class="row border">
         <div class="col-sm-12 col-md-6">
-               <img src="img/aletta_overzicht.jpg" alt="Sfeerimpressie nieuw atrium" class="img-fluid">
+               <img src="img/aletta_collegezaal.jpg" alt="Sfeerimpressie nieuw atrium" class="img-fluid projecten mt-2 pl-2">
             
           </div>
+              
           
             <div class="col-sm-12 col-md-6">
                 <h2 class="mt-2">Alleta Jacobshal</h2>
@@ -46,11 +49,12 @@
                 </p>
               <a href="/" class="btn btn-primary mb-2">Bekijken</a>
           </div>
+          </div>
+            
+          <div class="row border">
     
-        </div>
-         <div class="row border mt-2">
-        <div class="col-sm-12 col-md-6">
-               <img src="img/vanOlst_boulevard.jpg" alt="Sfeerimpressie nieuw atrium" class="img-fluid">
+    <div class="col-sm-12 col-md-6">
+               <img src="img/vanOlst_boulevard.jpg" alt="Sfeerimpressie nieuw atrium" class="img-fluid projecten mt-2 pl-2">
             
           </div>
           
@@ -61,27 +65,38 @@
                 </p>
               <a href="/" class="btn btn-primary mb-2">Bekijken</a>
           </div>
-    
-        </div>
-       <div class="row border mt-2">
-        <div class="col-sm-12 col-md-6">
-               <img src="img/" alt="Sfeerimpressie nieuw atrium" class="img-fluid">
-            
           </div>
           
-            <div class="col-sm-12 col-md-6">
+             <div class="row border">
+        <div class="col-sm-12 col-md-6">
+               <img src="img/feringa_trappenhuis.jpg" alt="Sfeerimpressie nieuw atrium" class="img-fluid projecten my-2">
+            
+        </div>
+           <div class="col-sm-12 col-md-6">
                <h2 class="mt-2">Feringa building</h2>
-                <p>
+        
+                 <p>
                    In de nieuwe opzet van het complex wordt er een hoofdstraat gemaakt die het verbindend element zal vormen binnen het complex. Het Atrium vormt dan het kruis- en ontmoetingspunt. Hiervoor zullen enkele gebouwdelen worden gesloopt. Er komt duurzame nieuwbouw voor in de plaats, die wordt geïntegreerd met de huidige gebouwdelen.
+                     ds
+                     dsds
+                     dsds
                 </p>
              <a href="/" class="btn btn-primary mb-2">Bekijken</a> 
           </div>
+          </div>
+        
     
         </div>
+    </div>
+</div>
+
+          
 
     
-      </div>
-</div>
+  
+
+
+    
       
 <?php include 'footer.php';?>
 
