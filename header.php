@@ -12,9 +12,6 @@
         <a class="nav-link active" href="/">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/">Kaart</a>
-      </li>
-      <li class="nav-item">
         <a class="nav-link" href="/projecten.php">Projecten</a>
       </li>
            <li class="nav-item">
@@ -45,7 +42,7 @@
               <div class="search" id="search">
 
  <div class="input-group">
-    <input type="text" class="form-control" placeholder="Search this blog">
+    <input type="text" class="form-control" placeholder="zoeken...">
     <div class="input-group-append">
       <button class="btn btn-secondary" type="button">
         <i class="fa fa-search"></i>
