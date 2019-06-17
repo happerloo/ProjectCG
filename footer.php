@@ -21,7 +21,7 @@
                 
             </div>
             
-                      <div class="col-sm-12 col-md-1 mt-4 pl-5">
+                      <div class="col-sm-12 col-md-1 mt-4  pr-5">
              <p><strong>Social</strong></p>
                         <ul class="social">
                         <li> <a href="#"> <i class="fa fa-facebook">   </i> </a> </li>
@@ -33,7 +33,7 @@
             
            
             
-       <div class="col-sm-12 col-md-4 mt-4 ml-2">
+       <div class="col-sm-12 col-md-4 mt-4">
              
              <p><strong>Schrijf je in voor de niewsbrief.</strong></p>
              <p>De nieuwsbrief verschijnt ieder kwartaal en bevat alle belangrijke updates met bterekking tot Zernike Campus.</p>
@@ -44,7 +44,7 @@
                 
               
                                 <p><strong>Ja, ik blijf graag op de hoogte!</strong></p>
-                                <input type="text" class="w-100 mt-1" placeholder="Email ">
+                                <input type="text" class="w-100 mt-1" placeholder="b.i.j.voorbeeld@st.hanze.nl">
                                 <button class="btn btn-primary w-100 mt-2" type="button">Inscrhijven</button>
                 
             </div>
